@@ -4,6 +4,7 @@ The Rainbow
 Purple
 Orange
 Blue
-Red
 Green
+Yellow
+Red
 These are the color of the rainboe.
